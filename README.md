@@ -28,8 +28,8 @@
 
 <img src="/img/singleton_airplane_uml.png" width="">
 
-- [Singleton 코드 URL]()
-- [Singleton 코드 해설 URL]()
+- [Singleton 코드 URL](https://github.com/Qussong/study_DesignPattern/blob/main/DesignePattern/main/1_Sigleton.cpp)
+- [Singleton 코드 해설 URL](https://github.com/Qussong/study_DesignPattern/blob/main/DesignePattern/main/1_Singleton.md)
 
 ---
 
@@ -65,8 +65,8 @@
 
 <img src="/img/decorator_pizza_uml.png" width="">
 
-- [Decorator 코드 URL]()
-- [Decorator 코드 해설 URL]()
+- [Decorator 코드 URL](https://github.com/Qussong/study_DesignPattern/blob/main/DesignePattern/main/2_Decorator.cpp)
+- [Decorator 코드 해설 URL](https://github.com/Qussong/study_DesignPattern/blob/main/DesignePattern/main/2_Decorator.md)
 
 ---
 
