@@ -15,8 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sigleton.cpp">
+    <ClCompile Include="1_Sigleton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2_Decorator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_Observer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1_Singleton.md">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
