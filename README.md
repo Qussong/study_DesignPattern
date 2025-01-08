@@ -1,7 +1,7 @@
 <!-- https://teamsparta.notion.site/3-1-1422dc3ef51481ed8b3eddf468cd2659 -->
-# 📌디자인 패턴
+# 디자인 패턴
 
-### Singleton (생성 패턴)
+### 📌Singleton (생성 패턴)
 
 **🔻문제 상황**
 
@@ -34,7 +34,7 @@
 
 ---
 
-### Decorator (구조 패턴)
+### 📌Decorator (구조 패턴)
 
 **🔻문제 상황**
 
@@ -71,7 +71,7 @@
 
 ---
 
-### Observer (행동 패턴)
+### 📌Observer (행동 패턴)
 
 **🔻문제 상황**
 
