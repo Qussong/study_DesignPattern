@@ -29,5 +29,8 @@
     <None Include="1_Singleton.md">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="2_Decorator.md">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
