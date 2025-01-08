@@ -142,9 +142,9 @@ int main()
 
     // 데이터 변경 테스트
     // - 데이터를 변경하면 등록된 모든 Observer들이 알림을 받고 화면에 갱신
-    excelSheet.setData(5);                       // 데이터 변경: 5
+    excelSheet.setData(5);  // 데이터 변경: 5
     std::cout << "\n\n";
-    excelSheet.setData(10);                      // 데이터 변경: 10
+    excelSheet.setData(10); // 데이터 변경: 10
 
     // 메모리 해제
     // - 동적 할당된 Observer(차트) 객체 삭제
