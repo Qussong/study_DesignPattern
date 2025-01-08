@@ -102,4 +102,6 @@ Excel Sheet에 변경내용이 생기면 Observer 에 변경사항을 알려주�
 >- Subobject : 상태를 관리하고, 변경되었음을 Observer에 알림
 >- Observer : Subobject를 관찰하며 상태 변경시 반응함
 
+- [Decorator 코드 URL](https://github.com/Qussong/study_DesignPattern/blob/main/DesignePattern/main/3_Observer.cpp)
+- [Decorator 코드 해설 URL](https://github.com/Qussong/study_DesignPattern/blob/main/DesignePattern/main/3_Observer.md)
 
